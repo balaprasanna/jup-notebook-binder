@@ -1,5 +1,2 @@
 # jup-notebook-binder
-grab badge code in your format
-.md .rst
-paste into your README to get
- 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/balaprasanna/jup-notebook-binder)
